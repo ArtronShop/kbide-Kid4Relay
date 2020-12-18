@@ -1,0 +1,15 @@
+{
+  "name": "Kid4Relay",
+  "title" : "Kid4Relay",
+  "keywords": "relay, esp32",
+  "description": "Kid4Relay plugin for KBIDE",
+  "category":"Signal Input/Output",
+  "license": "MIT",
+  "git": "https://github.com/ioxhop/kbide-Kid4Relay/",
+  "author": "IOXhop.com",
+  "email": "sonthaya.nt@hotmail.com",
+  "url": "https://github.com/ioxhop/kbide-Kid4Relay.git",
+  "version": "2.6.1",
+  "platform": ["arduino-esp32"],
+  "image" : "/static/display.jpg"
+}
